@@ -1,6 +1,6 @@
 //struct - a data structure that allows you to group multiple fields together under one name.
 
-fn main(){
+fn struct(){
     let mut bank_account = BankAccount{
         owner: "Alice".to_string(),
         balance: 150.55,
